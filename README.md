@@ -22,15 +22,15 @@ If file size is important to you, you can use the version without logos and acce
 
 ### Including Logo
 
--  [CSV](nasdaq.csv) (700KB)
--  [JSON](nasdaq.json) (985KB)
--  [JSON (minimized)](nasdaq.min.json) (866KB)
+-  [CSV](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Nasdaq-Stock-Exchange-including-Symbols-and-Logos/nasdaq.csv) (700KB)
+-  [JSON](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Nasdaq-Stock-Exchange-including-Symbols-and-Logos/nasdaq.json) (985KB)
+-  [JSON (minimized)](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Nasdaq-Stock-Exchange-including-Symbols-and-Logos/nasdaq.min.json) (866KB)
 
 ### Without Logo
 
--  [CSV](without_logo.csv) (157KB)
--  [JSON](without_logo.json) (372KB)
--  [JSON (minimized)](without_logo.min.json) (263KB)
+-  [CSV](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Nasdaq-Stock-Exchange-including-Symbols-and-Logos/without_logo.csv) (157KB)
+-  [JSON](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Nasdaq-Stock-Exchange-including-Symbols-and-Logos/without_logo.json) (372KB)
+-  [JSON (minimized)](https://cdn.jsdelivr.net/gh/ahmeterenodaci/Nasdaq-Stock-Exchange-including-Symbols-and-Logos/without_logo.min.json) (263KB)
 
 ---
 
