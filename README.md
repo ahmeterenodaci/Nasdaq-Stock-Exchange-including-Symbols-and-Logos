@@ -1,4 +1,4 @@
-# List of Companies on the NASDAQ Stock Exchange (including symbols and logos)
+# Nasdaq Stock Exchange including symbols and logos
 
 List of companies listed on the NASDAQ Stock Exchange, including their logos and symbols. The source of the data is from the [Nasdaq](http://www.nasdaqtrader.com/trader.aspx?id=symboldirdefs) website. The data columns are "symbol", "name", "logoUrl".
 
@@ -44,4 +44,4 @@ If file size is important to you, you can use the version without logos and acce
 
 ## See Also
 
--
+-  [Istanbul Stock Exchange (BIST) including symbols and logos](https://github.com/ahmeterenodaci/Istanbul-Stock-Exchange--BIST--including-symbols-and-logos)
