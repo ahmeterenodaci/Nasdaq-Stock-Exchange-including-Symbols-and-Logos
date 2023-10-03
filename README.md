@@ -12,19 +12,25 @@ List of companies listed on the NASDAQ Stock Exchange, including their logos and
 
 ---
 
+If file size is important to you, you can use the version without logos and access the URL of the logos with the format below.
+
+`https://cdn.jsdelivr.net/gh/ahmeterenodaci/Nasdaq-Stock-Exchange-including-Symbols-and-Logos/logos/_{symbol}.png`
+
+---
+
 ## Formats Available
 
 ### Including Logo
 
--  [CSV](nasdaq.csv)
--  [JSON](nasdaq.json)
--  [JSON (minimized)](nasdaq.min.json)
+-  [CSV](nasdaq.csv) (700KB)
+-  [JSON](nasdaq.json) (985KB)
+-  [JSON (minimized)](nasdaq.min.json) (866KB)
 
 ### Without Logo
 
--  [CSV](without_logo.csv) (161KB)
--  [JSON](without_logo.json) (377KB)
--  [JSON (minimized)](without_logo.min.json) (267KB)
+-  [CSV](without_logo.csv) (157KB)
+-  [JSON](without_logo.json) (372KB)
+-  [JSON (minimized)](without_logo.min.json) (263KB)
 
 ---
 
